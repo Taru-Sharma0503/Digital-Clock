@@ -27,3 +27,5 @@ Simple and clean GUI design
 Uses Tkinter for GUI and time module for current time
 
 ## Screenshots 📸
+
+![clock](https://github.com/user-attachments/assets/0191d68c-f21a-4165-bffa-dad439db3795)
